@@ -1,0 +1,2 @@
+This is another file for read operation of file.
+hello people.
